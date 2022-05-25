@@ -1,2 +1,2 @@
 *.java linguist-language=javascript
-*.C++ linguist-language=react
+*.C++ linguist-language=javascript
