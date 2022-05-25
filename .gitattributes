@@ -1,2 +1,2 @@
 *.java linguist-language=React-Native
-*.c++ linguist-language=React-Native
+*.C++ linguist-language=React-Native
